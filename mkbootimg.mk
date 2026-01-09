@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-MKBOOTIMG := device/samsung/a13/mkbootimg
+MKBOOTIMG := device/samsung/a21s/mkbootimg
 
 FLASH_IMAGE_TARGET ?= $(PRODUCT_OUT)/recovery.tar
 
